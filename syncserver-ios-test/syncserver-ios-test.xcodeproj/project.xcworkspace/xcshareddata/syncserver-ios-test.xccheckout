@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5856A44-4965-42DB-95EB-53F756AD3223</string>
+	<key>IDESourceControlProjectName</key>
+	<string>syncserver-ios-test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C45DEFAA-B0C3-4FF3-B9CC-6F561154C0E7</key>
+		<string>ssh://bitbucket.org/mwisniewski/syncserver-ios-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>syncserver-ios-test/syncserver-ios-test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C45DEFAA-B0C3-4FF3-B9CC-6F561154C0E7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/mwisniewski/syncserver-ios-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C45DEFAA-B0C3-4FF3-B9CC-6F561154C0E7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C45DEFAA-B0C3-4FF3-B9CC-6F561154C0E7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>syncserver-ios-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
